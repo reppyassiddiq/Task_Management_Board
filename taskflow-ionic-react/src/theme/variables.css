@@ -1,0 +1,10 @@
+:root {
+  --ion-font-family: 'DM Sans', sans-serif;
+  --ion-color-primary: #3979ed;
+  --ion-color-primary-rgb: 57, 121, 237;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-shade: #326ad1;
+  --ion-color-primary-tint: #4d86ef;
+  --ion-background-color: #f7f9fc;
+  --ion-text-color: #182338;
+}
